@@ -1,12 +1,12 @@
 {
 	"name": "create-polytoria-ts",
 	"description": "Create a polytoria-ts project from a template",
-	"version": "2.0.11",
+	"version": "2.0.12",
 	"author": "",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/pine-forest-dweller/create-polytoria-ts"
+		"url": "https://github.com/polytoria-ts/create-polytoria-ts"
 	},
 	"bin": {
 		"create-polytoria-ts": "out/index.js"

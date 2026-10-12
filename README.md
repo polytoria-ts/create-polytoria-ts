@@ -12,6 +12,7 @@ npm init polytoria-ts
 
 Make your changes (or don't), then build it:
 ```sh
+npm install
 npm run build
 ```
 This will create an `out/` directory with the corresponding luau files.

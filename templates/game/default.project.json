@@ -14,7 +14,7 @@
 		},
 		"Hidden": {
 			"$className": "Hidden",
-			"polyts_include": {
+			"include": {
 				"$path": "include",
 				"node_modules": {
 					"$className": "Folder",
@@ -32,7 +32,7 @@
 			"TS": {
 				"$path": "out/client"
 			}
-		},	
+		},
 		"Environment": {
 			"$className": "Environment"
 		}
